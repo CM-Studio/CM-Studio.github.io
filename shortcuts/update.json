@@ -1,0 +1,18 @@
+{
+  "spstory": {
+    "version": 1.0,
+    "text": "提升稳定性"
+  },
+  "story": {
+    "version": 1.1,
+    "text": "优化流程"
+  },
+  "insta": {
+    "version": 1.0,
+    "text": "正式版"
+  },
+  "pro": {
+    "version": 1.0,
+    "text": "正式版"
+  }
+}
